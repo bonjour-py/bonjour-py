@@ -1,3 +1,10 @@
+- type: bilibili
+  icon: "fa-brands fa-bilibili"
+  url: https://space.bilibili.com/42442654
+
+- type: qq
+  icon: "fa-brands fa-qq"
+  url: https://qm.qq.com/cgi-bin/qm/qr?k=uSfMDbLkkfDLAF0kMe1ndvihEUYrE6uU&jump_from=webapi&authKey=TBZH1jFghhic1KZnfwfDEPoC1Q7JABt2sxQHemOdk5dX/59uV8pEgP0ml9m64RtI
 #  The contact options.
 
 - type: github
