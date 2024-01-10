@@ -32,10 +32,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: true
-          # If using the 'assets' git submodule from Chirpy Starter, uncomment above
-          # (See: https://github.com/cotes2020/chirpy-starter/tree/main/assets)
       - name: Setup Pages
         uses: actions/configure-pages@v4
       # actions/jekyll-build-pages所含ruby版本过低
